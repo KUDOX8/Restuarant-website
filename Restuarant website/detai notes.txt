@@ -1,0 +1,48 @@
+nav .barLogo {
+	width: 110px;
+	margin-top: 1rem;
+	margin-left: 0.8rem;
+	margin-right: 15rem;
+}
+
+nav a {
+	display: block;
+	color: white;
+	float: left;
+
+	text-decoration: none;
+	padding: 16px;
+	font-weight: 400;
+}
+
+nav a:hover {
+	box-shadow: 0px -5px 0px 0px #ffaa00, 0px 0px 0px 0px #ffaa00;
+}
+
+nav .red1 {
+	background-color: rgb(197, 0, 0);
+	width: 100%;
+}
+
+.black1 {
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+}
+
+nav #cart {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: 1000;
+	color: #a80e0e;
+	background-color: #ffaa00;
+	margin-bottom: 0;
+	margin-left: 5px;
+}
+
+.cart-text {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
